@@ -1,6 +1,6 @@
 " _vimrc
 " Author: Alec Dibble
-" Last modified: Fri Jul 13, 2012  11:58AM
+" Last modified: Fri Jul 13, 2012  12:43PM
 "
 
 " Enhanced command line complete
@@ -83,4 +83,6 @@ if has("gui_macvim")
   "Add page up and page down to shortcut keys
   "Change buffer switching to a different shortcut key
 endif
+
+
 
