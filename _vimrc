@@ -1,6 +1,6 @@
 " _vimrc
 " Author: Alec Dibble
-" Last modified: Fri Jul 13, 2012  12:43PM
+" Last modified: Mon Jul 16, 2012  04:45PM
 "
 
 " Enhanced command line complete
@@ -84,5 +84,8 @@ if has("gui_macvim")
   "Change buffer switching to a different shortcut key
 endif
 
+" Set plugin path to ~/.vim/bundle (~\vimfiles\bundle\)
+runtime bundle/autoload/pathogen.vim
+call pathogen#infect()
 
 
