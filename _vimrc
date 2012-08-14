@@ -1,6 +1,6 @@
 " _vimrc
 " Author: Alec Dibble
-" Last modified: Sun Aug 12, 2012  11:46PM
+" Last modified: Tue Aug 14, 2012  08:40AM
 "
 
 " Enhanced command line complete
@@ -92,3 +92,5 @@ call pathogen#infect()
 
 set background=dark
 colorscheme solarized
+set t_Co=16
+
