@@ -1,6 +1,6 @@
 " _vimrc
 " Author: Alec Dibble
-" Last modified: Mon Jul 16, 2012  04:45PM
+" Last modified: Sun Aug 12, 2012  11:46PM
 "
 
 " Enhanced command line complete
@@ -88,4 +88,7 @@ endif
 runtime bundle/autoload/pathogen.vim
 call pathogen#infect()
 
+" Set Solarize to display
 
+set background=dark
+colorscheme solarized
