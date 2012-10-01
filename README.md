@@ -2,7 +2,7 @@ alecvimrc
 =========
 
 Alec's vimrc file
-Last modified: Mon Jul 16, 2012  04:42PM
+Last modified: Wed Aug 01, 2012  05:15PM
 
 
 Keyboard Shortcuts General:
@@ -17,7 +17,8 @@ lists current buffers and allows you type in number to open one.
 
 Plugins:
 -------
-(to do)
+* Pathogen to allows me to place plugins in a custom directory that can be linked upon retrieval of this repo.
+
 General Features:
 -----------------
 

@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/mungaman/Git/cousins-docs'
+let g:netrw_dirhist_2='/Users/mungaman/Git'
+let g:netrw_dirhist_3='/Users/mungaman/Git/cousins-docs'
+let g:netrw_dirhist_4='/Users/mungaman/Git/cousins-dev/server'
+let g:netrw_dirhist_5='/Users/mungaman/Git/cousins-dev/server/express_test/node_modules'
