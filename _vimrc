@@ -1,6 +1,6 @@
 " _vimrc
 " Author: Alec Dibble
-" Last modified: Mon Jul 16, 2012  04:45PM
+" Last modified: Mon Oct 01, 2012  07:52AM
 "
 
 " Enhanced command line complete
@@ -56,6 +56,9 @@ nmap <silent> ,,ev :e $MYVIMRC<cr>
 
 " Source vimrc file use the sv alias
 nmap <silent> ,,sv :so $MYVIMRC<cr>
+
+" Make escape key map to "jj"
+:imap jj <Esc>
 
 " If buffer modified, update any 'Last modified: ' in the first 20 lines.
 " 'Last modified: ' can have up to 10 characters before (they are retained).
